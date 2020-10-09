@@ -1,5 +1,5 @@
 {
-  "name": "miladrahimi/phprouter",
+  "name": "tkeske/fork-router",
   "description": "A powerful, lightweight, and very fast HTTP URL router.",
   "keywords": [
     "Route",
@@ -15,9 +15,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Milad Rahimi",
-      "email": "info@miladrahimi.com",
-      "homepage": "https://miladrahimi.com",
+      "name": "blank null sorry",
+      "email": "blank@null.com",
+      "homepage": "https://blank.com",
       "role": "Developer"
     }
   ],
